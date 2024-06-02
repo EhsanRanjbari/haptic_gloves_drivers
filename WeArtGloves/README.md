@@ -2,7 +2,7 @@
 
 ## Build and Install
 
-1. Install the `WeArtGlove`
+1. Install the `WeArtGloveLib` from [here](https://github.com/ami-iit/WEART-SDK-Cpp/tree/devel_ami-iit).
 2. clone the repo
 3. `mkdir && cd build`
 4. `cmake -G"Visual Studio 17 2022" ..`
